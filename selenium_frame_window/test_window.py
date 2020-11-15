@@ -1,7 +1,7 @@
 from selenium import webdriver
 from time import sleep
 import pytest
-from BasePage.Base import Base
+from base.Base import Base
 class TestWindows(Base):
 
     def test_window(self):

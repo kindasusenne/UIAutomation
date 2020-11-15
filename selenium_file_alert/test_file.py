@@ -1,4 +1,4 @@
-from BasePage.Base import Base
+from base.Base import Base
 import time
 import pytest
 

@@ -2,7 +2,7 @@ from selenium import webdriver
 from time import sleep
 # from selenium_frame_window.Base import Base
 
-from BasePage.Base import Base
+from base.Base import Base
 # https://www.w3school.com.cn/tiy/t.asp?f=html_frame_cols
 # https://www.runoob.com/try/try.php?filename=jqueryui-api-droppable
 
